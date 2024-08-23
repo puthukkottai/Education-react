@@ -1,0 +1,17 @@
+.single__feature h2 i {
+    font-size: 2.5rem;
+    margin-top: 30px;
+  }
+  
+  .single__feature h6 {
+    font-weight: 600;
+  }
+
+  .single__feature{
+    margin-top: 40px;
+  }
+
+  .mb-3{
+    color: aqua;
+ 
+  }
